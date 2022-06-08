@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-CoinGecko-API-Crypto-Prices/static/css/main.497921cd.css",
+    "main.js": "/React-CoinGecko-API-Crypto-Prices/static/js/main.ec849169.js",
+    "static/js/787.d6b6fa33.chunk.js": "/React-CoinGecko-API-Crypto-Prices/static/js/787.d6b6fa33.chunk.js",
+    "index.html": "/React-CoinGecko-API-Crypto-Prices/index.html",
+    "main.497921cd.css.map": "/React-CoinGecko-API-Crypto-Prices/static/css/main.497921cd.css.map",
+    "main.ec849169.js.map": "/React-CoinGecko-API-Crypto-Prices/static/js/main.ec849169.js.map",
+    "787.d6b6fa33.chunk.js.map": "/React-CoinGecko-API-Crypto-Prices/static/js/787.d6b6fa33.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.497921cd.css",
+    "static/js/main.ec849169.js"
+  ]
+}
